@@ -1,0 +1,10 @@
+2025-10-02 19:09:00,293 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 111 connecting to localhost:6379. Connection refused.
+2025-10-02 19:10:32,722 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 111 connecting to localhost:6379. Connection refused.
+2025-10-02 19:12:35,968 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 111 connecting to localhost:6379. Connection refused.
+2025-10-02 19:12:36,170 - ERROR - interface_error: Internal Exception: list index out of range
+2025-10-02 19:17:52,292 - ERROR - interface_error: Internal Exception: list index out of range
+2025-10-02 19:25:16,310 - ERROR - interface_error: Internal Exception: list index out of range
+2025-10-02 19:26:42,029 - ERROR - interface_error: Internal Exception: [Errno 2] No such file or directory: 'tutot.jac'
